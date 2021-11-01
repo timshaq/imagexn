@@ -1,0 +1,31 @@
+{
+  "name": "layout",
+  "version": "0.0.1",
+  "description": "Layout Work",
+  "main": "app.js",
+  "dependencies": {
+    "del": "^6.0.0",
+    "gulp-gm": "0.0.9"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-imagemin": "^7.1.0",
+    "webp-converter": "^2.3.3",
+    "gulp-rename": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shakirov Timur",
+  "license": "MIT",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
